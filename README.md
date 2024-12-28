@@ -4,7 +4,8 @@
 플레이어는 마을로 침입하려는 몬스터(enemy)를 막기 위해 문(gate)을 파괴해야 합니다. 모든 그래픽(캐릭터, 배경, 애니메이션)은 팀원 중 한 명이 직접 제작하였습니다.
 
 ---
-![Uploading PRESS_ENTER_TO_START.gif…]()
+
+![플레이어](images/PRESS_ENTER_TO_START.png)
 
 ## 게임 개념
 
