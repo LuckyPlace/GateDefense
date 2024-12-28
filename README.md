@@ -5,7 +5,7 @@
 
 ---
 
-![플레이어](images/PRESS_ENTER_TO_START.png)
+![메인화면](GateDefense_final/GateDefense/image/PRESS_ENTER_TO_START.png)
 
 ## 게임 개념
 
