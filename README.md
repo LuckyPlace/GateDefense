@@ -28,6 +28,7 @@
 - ![문](./GateDefense_final/GateDefense/image/gateHp_3.png)
 - ![문](./GateDefense_final/GateDefense/image/gateHp_2.png)
 - ![문](./GateDefense_final/GateDefense/image/gateHp_1.png)
+- ![문](./GateDefense_final/GateDefense/image/gateHp_0.png)
 - **타이머**: 60초의 제한 시간이 있으며, 제한 시간 내에 마을을 방어해야 합니다.
 - **목숨 시스템**: 플레이어는 3개의 목숨으로 시작하며, 몬스터가 마을로 들어오면 목숨이 줄어듭니다.
 - **사운드 효과**: 게임 플레이 배경 음악과 시작 화면 배경 음악을 제공합니다.
