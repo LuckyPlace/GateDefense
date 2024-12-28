@@ -25,7 +25,7 @@
 ![적_chief](./GateDefense_final/GateDefense/image/enemyChief.gif)
 ![적](./GateDefense_final/GateDefense/image/enemy.gif)
 - **문 생성**: 문은 랜덤 위치에서 생성되며 체력(HP)을 가지고 있습니다. 플레이어는 문을 공격하여 파괴해야 합니다.
-![문](./GateDefense_final/GateDefense/image/gateHp_5.png)
+- ![문](./GateDefense_final/GateDefense/image/gateHp_5.png)
 ![문](./GateDefense_final/GateDefense/image/gateHp_4.png)
 ![문](./GateDefense_final/GateDefense/image/gateHp_3.png)
 ![문](./GateDefense_final/GateDefense/image/gateHp_2.png)
