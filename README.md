@@ -23,11 +23,11 @@
 - **플레이어 이동**: 부드러운 좌우 이동, 점프 및 공격 기능을 제공합니다.
 - **적 AI**: 몬스터(enemy)는 문에서 생성되어 마을 쪽으로 이동합니다.
 - **문 생성**: 문은 랜덤 위치에서 생성되며 체력(HP)을 가지고 있습니다. 플레이어는 문을 공격하여 파괴해야 합니다.
-- ![문](./GateDefense_final/GateDefense/image/gateHp_5)
-- ![문](./GateDefense_final/GateDefense/image/gateHp_4)
-- ![문](./GateDefense_final/GateDefense/image/gateHp_3)
-- ![문](./GateDefense_final/GateDefense/image/gateHp_2)
-- ![문](./GateDefense_final/GateDefense/image/gateHp_1)
+- ![문](./GateDefense_final/GateDefense/image/gateHp_5.png)
+- ![문](./GateDefense_final/GateDefense/image/gateHp_4.png)
+- ![문](./GateDefense_final/GateDefense/image/gateHp_3.png)
+- ![문](./GateDefense_final/GateDefense/image/gateHp_2.png)
+- ![문](./GateDefense_final/GateDefense/image/gateHp_1.png)
 - **타이머**: 60초의 제한 시간이 있으며, 제한 시간 내에 마을을 방어해야 합니다.
 - **목숨 시스템**: 플레이어는 3개의 목숨으로 시작하며, 몬스터가 마을로 들어오면 목숨이 줄어듭니다.
 - **사운드 효과**: 게임 플레이 배경 음악과 시작 화면 배경 음악을 제공합니다.
