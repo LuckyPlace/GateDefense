@@ -72,6 +72,6 @@
 
 ## 설치 및 실행
 
-1. 이 저장소를 클론합니다:
+1. **클론**
    ```bash
    git clone https://github.com/LuckyPlace/GateDefense.git
