@@ -22,7 +22,7 @@
 
 - **플레이어 이동**: 부드러운 좌우 이동, 점프 및 공격 기능을 제공합니다.
 - ![플레이어](./GateDefense_final/GateDefense/image/playerMoveL.gif)
-- ![플레이어](./GateDefense_final/GateDefense/image/playerMoveR.gif)
+![플레이어](./GateDefense_final/GateDefense/image/playerMoveR.gif)
 - **적 AI**: 몬스터(enemy)는 문에서 생성되어 마을 쪽으로 이동합니다.
 - ![적_chief](./GateDefense_final/GateDefense/image/enemyChief.gif)
 ![적](./GateDefense_final/GateDefense/image/enemy.gif)
